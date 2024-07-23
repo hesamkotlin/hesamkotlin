@@ -1,5 +1,7 @@
 # 💫About Me :
-I love Android and Kotlin.
+As an Android Developer with over 2 years of experience, I specialize in Kotlin and am passionate about continuous learning. My business acumen drives me to develop solutions that are both innovative and commercially viable. I am always eager to expand my knowledge and tackle new challenges in the tech industry.
+
+
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hesamnaderi/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18179280) 
