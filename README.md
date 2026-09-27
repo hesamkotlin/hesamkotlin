@@ -1,5 +1,5 @@
 # 💫About Me :
-As an Android Developer with over 2 years of experience, I specialize in Kotlin and am passionate about continuous learning. My business acumen drives me to develop solutions that are both innovative and commercially viable. I am always eager to expand my knowledge and tackle new challenges in the tech industry.
+As an Android Developer with over 4 years of experience, I specialize in Kotlin and am passionate about continuous learning. My business acumen drives me to develop solutions that are both innovative and commercially viable. I am always eager to expand my knowledge and tackle new challenges in the tech industry.
 
 
 
